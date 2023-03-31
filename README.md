@@ -1,4 +1,4 @@
-# assignmentandroid
+# Android Assignment
 Create an application with following specifications
 1. A Splash screen with white background and desired image in centre
 2. After 5 secs , from splash screen user has to be navigated to a page which has a 
