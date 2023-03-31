@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AssignmentAndroid</string>
+    <string name="app_name">Assignment Android</string>
+    <string name="ok">Ok</string>
 </resources>
